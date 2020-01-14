@@ -4,5 +4,26 @@ body {
 }
 
 h1 {
-    font-size: 150%;
+    text-transform: uppercase;
+    color: #995942;
+}
+
+p {
+    font-size: 2rem;
+}
+
+p.intro {
+    color: #FF9500;
+}
+
+summary {
+    font-size: 4rem;
+}
+
+span.impar{
+    background-color: #FFCCEA;
+}
+
+span.par {
+    background-color: white;
 }
